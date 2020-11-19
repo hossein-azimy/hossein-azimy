@@ -1,0 +1,27 @@
+/* font-Tanha */
+@font-face {
+    font-family: Tanha;
+    src: url('http://fonts.codearena.ir/rastikerdar/tanha/tanha.eot');
+    src: url('http://fonts.codearena.ir/rastikerdar/tanha/tanha.eot?#iefix') format('embedded-opentype'),
+         url('http://fonts.codearena.ir/rastikerdar/tanha/tanha.woff') format('woff'),
+         url('http://fonts.codearena.ir/rastikerdar/tanha/tanha.ttf') format('truetype');
+    font-weight: normal;
+  }  
+/* font-Titrbold */
+@font-face {
+    font-family: Titrbold;
+    src: url('http://fonts.codearena.ir/b/titrbold/titrbold.eot');
+    src: url('http://fonts.codearena.ir/b/titrbold/titrbold.eot?#iefix') format('embedded-opentype'),
+         url('http://fonts.codearena.ir/b/titrbold/titrbold.woff') format('woff'),
+         url('http://fonts.codearena.ir/b/titrbold/titrbold.ttf') format('truetype');
+    font-weight: normal;
+  }  
+/* font-Yekan */
+@font-face {
+    font-family: Yekan;
+    src: url('http://fonts.codearena.ir/b/yekan/yekan.eot');
+    src: url('http://fonts.codearena.ir/b/yekan/yekan.eot?#iefix') format('embedded-opentype'),
+         url('http://fonts.codearena.ir/b/yekan/yekan.woff') format('woff'),
+         url('http://fonts.codearena.ir/b/yekan/yekan.ttf') format('truetype');
+    font-weight: normal;
+  }

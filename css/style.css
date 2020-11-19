@@ -1,0 +1,59 @@
+body{
+    direction: rtl;
+    background: linear-gradient(90deg, #C4C5C7 0%, #DCDDDF 52%, #EBEBEB 100%) !important;
+}
+.mo{
+
+    background: url(../Grou.png) no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 647px;
+}
+header{
+    background: #ffff;
+    height: 140px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.25);
+}
+main div.box-back{
+    margin-top: 60px;
+    margin-right: 550px;
+    background: rgba(255, 255, 255, 0.70);
+    border-radius: 30px;
+    transform: matrix(1, -0.03, 0.04, 1, 0, 0);
+    width: 100%;
+    height: 90px;
+}
+main div.box-nex{
+    background: rgb(255, 255, 255);
+    border-radius: 30px;
+    width: 100%;
+    display: flex;
+    transform:inherit;
+    height: 90px;
+}
+
+.box-nex::after {    
+    content: url('https://api.iconify.design/bx:bxs-quote-alt-right.svg?width=50px&height=50px&rotate=180deg&flip=vertical');
+    position: absolute;
+    margin-right: 606px;
+    margin-top: 60px;
+    transform: rotateZ(4deg);
+}
+.box-nex::before {
+    content: url('https://api.iconify.design/bx:bxs-quote-alt-right.svg?width=50px&height=50px&rotate=180deg&flip=horizontal%2Cvertical');
+    position: absolute;
+    margin-right: -14px;
+    margin-top: -20px;
+    transform: rotateZ(5deg);
+}
+.box-nex .titr p{
+    color: #747474;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 33px;
+    margin-right: 30px;
+    font-size: 16px;
+    transform: rotateZ(3deg);
+}
