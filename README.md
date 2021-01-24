@@ -1,5 +1,5 @@
 ### Hi there
-<img src="https://github.com/hossein-azimy/hossein-azimy/blob/master/hello-1.gif">
+<img src="https://github.com/hossein-azimy/hossein-azimy/blob/master/hello-1.gif" style="width:10px">
 
 
 
